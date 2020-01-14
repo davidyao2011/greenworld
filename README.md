@@ -1,4 +1,4 @@
-# MERN Marketplace (seller-shops-products version)
+# Green World Eco-Friendly
 
 #### What you need to run this code
 1. Node (8.11.1)
