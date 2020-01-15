@@ -1,8 +1,8 @@
 {
-  "name": "mern-marketplace",
+  "name": "GreenWorld",
   "version": "1.0.0",
-  "description": "A MERN stack based online marketplace application",
-  "author": "Shama Hoque",
+  "description": "A webiste development for Green World Co Ltd",
+  "author": "David Yao",
   "license": "MIT",
   "keywords": [
     "react",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-marketplace.git"
+    "url": "https://github.com/daweiyao91031105/greenworld.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-marketplace",
+  "homepage": "https://daweiyao91031105.github.io/david-site/",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
